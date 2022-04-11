@@ -13,7 +13,9 @@ integrating third-party libraries while keeping the projected separated).
 There are several principles we will follow,
 
 > Keeping preprocessing and postprocessing steps clear.
+>
 > Separating data preparation with model source files.
+>
 > Separating evaluation scripts from model source files.
 > 
 
