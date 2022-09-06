@@ -6,7 +6,7 @@ data sets, source files, evaluation scripts, and model checkpoints.
 The hierarchy has been practiced in our previous projects,
 and it shows reasonable flexibility for the model development process
 (e.g, tunning hyperparameters, stacking different model components, 
-integrating third-party libraries while keeping the projected separated).
+integrating third-party libraries while keeping the project separated).
 
 ## Overview
 
